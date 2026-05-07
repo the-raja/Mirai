@@ -1,0 +1,2690 @@
+[
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.8
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.83,
+            0.17,
+            0.0,
+            0.67
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.71,
+            0.14,
+            0.0,
+            0.57
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.62,
+            0.12,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.33,
+            0.0,
+            0.67
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.25,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.4,
+            0.2,
+            0.0,
+            0.4
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.0,
+            0.0,
+            0.33
+        ],
+        "predicted_move": null,
+        "boss_action": "heal"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.25,
+            0.0,
+            0.25
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.4,
+            0.2,
+            0.0,
+            0.2
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.33,
+            0.17,
+            0.0,
+            0.33
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.43,
+            0.14,
+            0.0,
+            0.29
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.12,
+            0.0,
+            0.38
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.56,
+            0.11,
+            0.0,
+            0.44
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heal"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.6,
+            0.1,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.64,
+            0.09,
+            0.0,
+            0.55
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.67
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.25,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.8,
+            0.2,
+            0.0,
+            0.4
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.17,
+            0.0,
+            0.33
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.57,
+            0.14,
+            0.0,
+            0.29
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.62,
+            0.12,
+            0.0,
+            0.38
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.11,
+            0.0,
+            0.44
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heal"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.7,
+            0.1,
+            0.0,
+            0.4
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.75
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.8,
+            0.0,
+            0.0,
+            0.6
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.57,
+            0.0,
+            0.0,
+            0.43
+        ],
+        "predicted_move": "heal",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.62,
+            0.0,
+            0.0,
+            0.38
+        ],
+        "predicted_move": null,
+        "boss_action": "heal"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.0,
+            0.0,
+            0.33
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.7,
+            0.0,
+            0.0,
+            0.4
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.73,
+            0.0,
+            0.0,
+            0.45
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.0,
+            0.0,
+            0.42
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.0,
+            0.0,
+            0.67
+        ],
+        "predicted_move": "attack",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.0,
+            0.0,
+            0.75
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.33,
+            0.0,
+            0.33
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.25,
+            0.0,
+            0.25
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.0,
+            0.0,
+            0.67
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.0,
+            0.0,
+            0.75
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.6,
+            0.0,
+            0.0,
+            0.6
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.57,
+            0.0,
+            0.0,
+            0.57
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.62,
+            0.0,
+            0.0,
+            0.62
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.0,
+            0.0,
+            0.56
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.7,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.73,
+            0.0,
+            0.0,
+            0.45
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.0,
+            0.0,
+            0.42
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.67
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.25,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.6,
+            0.4,
+            0.0,
+            0.4
+        ],
+        "predicted_move": "defend",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.33,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.71,
+            0.29,
+            0.0,
+            0.43
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.25,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.78,
+            0.22,
+            0.0,
+            0.56
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.8,
+            0.2,
+            0.0,
+            0.6
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.82,
+            0.18,
+            0.0,
+            0.64
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.83,
+            0.17,
+            0.0,
+            0.67
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.77,
+            0.15,
+            0.08,
+            0.62
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.71,
+            0.14,
+            0.14,
+            0.57
+        ],
+        "predicted_move": "heal",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.73,
+            0.13,
+            0.13,
+            0.53
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.69,
+            0.12,
+            0.19,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Defensive",
+        "vector": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Defensive",
+        "vector": [
+            0.5,
+            0.5,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.33,
+            0.33,
+            0.0,
+            0.33
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.25,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.6,
+            0.2,
+            0.0,
+            0.6
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heal"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.17,
+            0.0,
+            0.67
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.71,
+            0.14,
+            0.0,
+            0.71
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.12,
+            0.0,
+            0.75
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.78,
+            0.11,
+            0.0,
+            0.78
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.67
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.8,
+            0.0,
+            0.0,
+            0.4
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.0,
+            0.0,
+            0.33
+        ],
+        "predicted_move": "heal",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.57,
+            0.0,
+            0.0,
+            0.43
+        ],
+        "predicted_move": "heal",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "heal",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.44,
+            0.0,
+            0.0,
+            0.44
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.4,
+            0.0,
+            0.0,
+            0.4
+        ],
+        "predicted_move": null,
+        "boss_action": "heal"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.36,
+            0.09,
+            0.0,
+            0.36
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.42,
+            0.08,
+            0.0,
+            0.33
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.46,
+            0.08,
+            0.0,
+            0.31
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heal"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.07,
+            0.0,
+            0.36
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.53,
+            0.07,
+            0.0,
+            0.4
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.56,
+            0.06,
+            0.0,
+            0.38
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.88
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.0,
+            0.0,
+            0.67
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.25,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.4,
+            0.4,
+            0.0,
+            0.4
+        ],
+        "predicted_move": "defend",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.5,
+            0.33,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.57,
+            0.29,
+            0.0,
+            0.43
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.62,
+            0.25,
+            0.0,
+            0.38
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "heal"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.67
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.75
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.8
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.83
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.86
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.88,
+            0.0,
+            0.12,
+            0.75
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.78,
+            0.0,
+            0.11,
+            0.67
+        ],
+        "predicted_move": "heal",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.7,
+            0.0,
+            0.1,
+            0.6
+        ],
+        "predicted_move": "heal",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.64,
+            0.0,
+            0.09,
+            0.55
+        ],
+        "predicted_move": "heal",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.58,
+            0.0,
+            0.08,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.75
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.8,
+            0.0,
+            0.0,
+            0.6
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "heal",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.71,
+            0.0,
+            0.0,
+            0.43
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.62,
+            0.12,
+            0.0,
+            0.38
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.11,
+            0.0,
+            0.33
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.7,
+            0.1,
+            0.0,
+            0.4
+        ],
+        "predicted_move": "attack",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.73,
+            0.09,
+            0.0,
+            0.45
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.08,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.75
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.6
+        ],
+        "predicted_move": "attack",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.57
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.62
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.67
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.7
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Defensive",
+        "vector": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "bluff"
+    },
+    {
+        "player_type": "Defensive",
+        "vector": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "defend",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Defensive",
+        "vector": [
+            0.33,
+            0.67,
+            0.0,
+            0.67
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Defensive",
+        "vector": [
+            0.5,
+            0.5,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "bluff"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.6,
+            0.4,
+            0.0,
+            0.6
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "wait"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0.67,
+            0.33,
+            0.0,
+            0.5
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.71,
+            0.29,
+            0.0,
+            0.43
+        ],
+        "predicted_move": "attack",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.25,
+            0.0,
+            0.38
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.78,
+            0.22,
+            0.0,
+            0.44
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heal"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.8,
+            0.2,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.82,
+            0.18,
+            0.0,
+            0.55
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.83,
+            0.17,
+            0.0,
+            0.58
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "bluff"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.86
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.75
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Balanced",
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "predicted_move": null,
+        "boss_action": "bluff"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": null,
+        "boss_action": "heavy"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "predicted_move": "heavy",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.75
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.6
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            1.0,
+            0.0,
+            0.0,
+            0.5
+        ],
+        "predicted_move": "attack",
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.86,
+            0.0,
+            0.0,
+            0.43
+        ],
+        "predicted_move": null,
+        "boss_action": "defend"
+    },
+    {
+        "player_type": "Aggressive",
+        "vector": [
+            0.75,
+            0.12,
+            0.0,
+            0.38
+        ],
+        "predicted_move": null,
+        "boss_action": "attack"
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0,
+            "defense": 1.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "first_move": "defend",
+            "last_sequence": [
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 0,
+                "heavy": 0,
+                "defend": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 21,
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0,
+            "defense": 0.5,
+            "panic": 0,
+            "predictability": 0.5,
+            "first_move": "defend",
+            "last_sequence": [
+                "defend",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 0,
+                "heavy": 0,
+                "defend": 1,
+                "heal": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 22,
+        "vector": [
+            0,
+            1.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.33,
+            "defense": 0.33,
+            "panic": 0,
+            "predictability": 0.33,
+            "first_move": "defend",
+            "last_sequence": [
+                "defend",
+                "heal",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 1,
+                "heal": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 23,
+        "vector": [
+            0,
+            0.5,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.25,
+            "defense": 0.5,
+            "panic": 0,
+            "predictability": 0.5,
+            "first_move": "defend",
+            "last_sequence": [
+                "heal",
+                "attack",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 2,
+                "heal": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 24,
+        "vector": [
+            0.33,
+            0.33,
+            0,
+            0.33
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.4,
+            "defense": 0.4,
+            "panic": 0,
+            "predictability": 0.4,
+            "first_move": "defend",
+            "last_sequence": [
+                "attack",
+                "defend",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 0,
+                "defend": 2,
+                "heal": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 25,
+        "vector": [
+            0.25,
+            0.5,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.33,
+            "defense": 0.5,
+            "panic": 0,
+            "predictability": 0.5,
+            "first_move": "defend",
+            "last_sequence": [
+                "defend",
+                "attack",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 0,
+                "defend": 3,
+                "heal": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 26,
+        "vector": [
+            0.4,
+            0.4,
+            0,
+            0.4
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.43,
+            "defense": 0.43,
+            "panic": 0,
+            "predictability": 0.43,
+            "first_move": "defend",
+            "last_sequence": [
+                "attack",
+                "defend",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 1,
+                "defend": 3,
+                "heal": 1
+            }
+        },
+        "predicted_move": "attack",
+        "matches": 27,
+        "vector": [
+            0.33,
+            0.5,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.38,
+            "panic": 0,
+            "predictability": 0.38,
+            "first_move": "defend",
+            "last_sequence": [
+                "defend",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 2,
+                "defend": 3,
+                "heal": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 28,
+        "vector": [
+            0.43,
+            0.43,
+            0,
+            0.43
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.56,
+            "defense": 0.33,
+            "panic": 0,
+            "predictability": 0.33,
+            "first_move": "defend",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 3,
+                "defend": 3,
+                "heal": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 29,
+        "vector": [
+            0.5,
+            0.38,
+            0,
+            0.38
+        ]
+    }
+]

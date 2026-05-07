@@ -1,0 +1,31 @@
+{
+    "player_1": {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.56,
+            "defense": 0.33,
+            "panic": 0,
+            "predictability": 0.33,
+            "first_move": "defend",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 3,
+                "defend": 3,
+                "heal": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 29,
+        "vector": [
+            0.5,
+            0.38,
+            0,
+            0.38
+        ]
+    }
+}
