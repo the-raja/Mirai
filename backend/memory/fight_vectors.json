@@ -2686,5 +2686,3340 @@
             0,
             0.38
         ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 30,
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 0,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 31,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 3,
+                "heavy": 0,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 32,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 0
+            }
+        },
+        "predicted_move": "attack",
+        "matches": 33,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 0.8,
+            "defense": 0.2,
+            "panic": 0,
+            "predictability": 0.8,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 1
+            }
+        },
+        "predicted_move": "attack",
+        "matches": 34,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 0.67,
+            "defense": 0.33,
+            "panic": 0,
+            "predictability": 0.67,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 35,
+        "vector": [
+            0.8,
+            0.2,
+            0,
+            0.8
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.57,
+            "defense": 0.43,
+            "panic": 0,
+            "predictability": 0.57,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 3
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 36,
+        "vector": [
+            0.67,
+            0.33,
+            0,
+            0.67
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.5,
+            "panic": 0,
+            "predictability": 0.5,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 4
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 37,
+        "vector": [
+            0.57,
+            0.43,
+            0,
+            0.57
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.44,
+            "defense": 0.56,
+            "panic": 0,
+            "predictability": 0.56,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 5
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 38,
+        "vector": [
+            0.5,
+            0.5,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.4,
+            "defense": 0.6,
+            "panic": 0,
+            "predictability": 0.6,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 6
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 39,
+        "vector": [
+            0.44,
+            0.56,
+            0,
+            0.56
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.36,
+            "defense": 0.64,
+            "panic": 0,
+            "predictability": 0.64,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 7
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 40,
+        "vector": [
+            0.4,
+            0.6,
+            0,
+            0.6
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.33,
+            "defense": 0.67,
+            "panic": 0,
+            "predictability": 0.67,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 8
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 41,
+        "vector": [
+            0.36,
+            0.64,
+            0,
+            0.64
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.38,
+            "defense": 0.62,
+            "panic": 0,
+            "predictability": 0.62,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 1,
+                "defend": 8
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 42,
+        "vector": [
+            0.33,
+            0.67,
+            0,
+            0.67
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.36,
+            "defense": 0.64,
+            "panic": 0,
+            "predictability": 0.64,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "heavy",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 1,
+                "defend": 9
+            }
+        },
+        "predicted_move": null,
+        "matches": 43,
+        "vector": [
+            0.38,
+            0.62,
+            0,
+            0.62
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.33,
+            "defense": 0.67,
+            "panic": 0,
+            "predictability": 0.67,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 1,
+                "defend": 10
+            }
+        },
+        "predicted_move": null,
+        "matches": 44,
+        "vector": [
+            0.36,
+            0.64,
+            0,
+            0.64
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.38,
+            "defense": 0.62,
+            "panic": 0,
+            "predictability": 0.62,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 2,
+                "defend": 10
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 45,
+        "vector": [
+            0.33,
+            0.67,
+            0,
+            0.67
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.41,
+            "defense": 0.59,
+            "panic": 0,
+            "predictability": 0.59,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 3,
+                "defend": 10
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 46,
+        "vector": [
+            0.38,
+            0.62,
+            0,
+            0.62
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.39,
+            "defense": 0.61,
+            "panic": 0,
+            "predictability": 0.61,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 3,
+                "defend": 11
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 47,
+        "vector": [
+            0.41,
+            0.59,
+            0,
+            0.59
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.42,
+            "defense": 0.58,
+            "panic": 0,
+            "predictability": 0.58,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "defend",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 5,
+                "heavy": 3,
+                "defend": 11
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 48,
+        "vector": [
+            0.39,
+            0.61,
+            0,
+            0.61
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 49,
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.5,
+            "panic": 0,
+            "predictability": 0.5,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 50,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.33,
+            "defense": 0.67,
+            "panic": 0,
+            "predictability": 0.67,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 51,
+        "vector": [
+            0.5,
+            0.5,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.25,
+            "defense": 0.75,
+            "panic": 0,
+            "predictability": 0.75,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 3
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 52,
+        "vector": [
+            0.33,
+            0.67,
+            0,
+            0.67
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.4,
+            "defense": 0.6,
+            "panic": 0,
+            "predictability": 0.6,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 0,
+                "defend": 3
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 53,
+        "vector": [
+            0.25,
+            0.75,
+            0,
+            0.75
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.5,
+            "panic": 0,
+            "predictability": 0.5,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "attack",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 3,
+                "heavy": 0,
+                "defend": 3
+            }
+        },
+        "predicted_move": null,
+        "matches": 54,
+        "vector": [
+            0.4,
+            0.6,
+            0,
+            0.6
+        ]
+    },
+    {
+        "player_type": "Defensive",
+        "behavior_summary": {
+            "aggression": 0.57,
+            "defense": 0.43,
+            "panic": 0,
+            "predictability": 0.57,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 4,
+                "heavy": 0,
+                "defend": 3
+            }
+        },
+        "predicted_move": "attack",
+        "matches": 55,
+        "vector": [
+            0.5,
+            0.5,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.62,
+            "defense": 0.38,
+            "panic": 0,
+            "predictability": 0.62,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 5,
+                "heavy": 0,
+                "defend": 3
+            }
+        },
+        "predicted_move": "attack",
+        "matches": 56,
+        "vector": [
+            0.57,
+            0.43,
+            0,
+            0.57
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.67,
+            "defense": 0.33,
+            "panic": 0,
+            "predictability": 0.56,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 5,
+                "heavy": 1,
+                "defend": 3
+            }
+        },
+        "predicted_move": "attack",
+        "matches": 57,
+        "vector": [
+            0.62,
+            0.38,
+            0,
+            0.62
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.7,
+            "defense": 0.3,
+            "panic": 0,
+            "predictability": 0.5,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 5,
+                "heavy": 2,
+                "defend": 3
+            }
+        },
+        "predicted_move": null,
+        "matches": 58,
+        "vector": [
+            0.67,
+            0.33,
+            0,
+            0.56
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 0.73,
+            "defense": 0.27,
+            "panic": 0,
+            "predictability": 0.45,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 5,
+                "heavy": 3,
+                "defend": 3
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 59,
+        "vector": [
+            0.7,
+            0.3,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 0.67,
+            "defense": 0.33,
+            "panic": 0,
+            "predictability": 0.42,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 5,
+                "heavy": 3,
+                "defend": 4
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 60,
+        "vector": [
+            0.73,
+            0.27,
+            0,
+            0.45
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.62,
+            "defense": 0.38,
+            "panic": 0,
+            "predictability": 0.38,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 5,
+                "heavy": 3,
+                "defend": 5
+            }
+        },
+        "predicted_move": null,
+        "matches": 61,
+        "vector": [
+            0.67,
+            0.33,
+            0,
+            0.42
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.57,
+            "defense": 0.43,
+            "panic": 0,
+            "predictability": 0.43,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "defend"
+            ],
+            "move_counts": {
+                "attack": 5,
+                "heavy": 3,
+                "defend": 6
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 62,
+        "vector": [
+            0.62,
+            0.38,
+            0,
+            0.38
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.6,
+            "defense": 0.4,
+            "panic": 0,
+            "predictability": 0.4,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "defend",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 6,
+                "heavy": 3,
+                "defend": 6
+            }
+        },
+        "predicted_move": "defend",
+        "matches": 63,
+        "vector": [
+            0.57,
+            0.43,
+            0,
+            0.43
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.62,
+            "defense": 0.38,
+            "panic": 0,
+            "predictability": 0.44,
+            "first_move": "attack",
+            "last_sequence": [
+                "defend",
+                "attack",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 7,
+                "heavy": 3,
+                "defend": 6
+            }
+        },
+        "predicted_move": "attack",
+        "matches": 64,
+        "vector": [
+            0.6,
+            0.4,
+            0,
+            0.4
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.65,
+            "defense": 0.35,
+            "panic": 0,
+            "predictability": 0.47,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 8,
+                "heavy": 3,
+                "defend": 6
+            }
+        },
+        "predicted_move": "attack",
+        "matches": 65,
+        "vector": [
+            0.62,
+            0.38,
+            0,
+            0.44
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "first_move": "ability",
+            "last_sequence": [
+                "ability"
+            ],
+            "move_counts": {
+                "attack": 0,
+                "heavy": 0,
+                "defend": 0,
+                "ability": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 66,
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "stamina_efficiency": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 67,
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "stamina_efficiency": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 0,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 68,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.67,
+            "stamina_efficiency": 0.9,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "attack",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 1,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 69,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.5,
+            "stamina_efficiency": 0.8,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 2,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 70,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            0.67
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.6,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 3,
+                "defend": 0
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 71,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 0.83,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.4,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "bluff"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 3,
+                "defend": 0,
+                "bluff": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 72,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            0.6
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 0.69,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.34,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "bluff",
+                "wait"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 3,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 73,
+        "vector": [
+            0.83,
+            0.0,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.6,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.28,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "bluff",
+                "wait",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 3,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 74,
+        "vector": [
+            0.69,
+            0.0,
+            0,
+            0.44
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.53,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.24,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "wait",
+                "grab",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 3,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 75,
+        "vector": [
+            0.6,
+            0.0,
+            0,
+            0.38
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.48,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.21,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "grab",
+                "feint"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 3,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1
+            }
+        },
+        "predicted_move": "grab",
+        "matches": 76,
+        "vector": [
+            0.53,
+            0.0,
+            0,
+            0.34
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.44,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.18,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "feint",
+                "parry"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 3,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 77,
+        "vector": [
+            0.48,
+            0.0,
+            0,
+            0.31
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.4,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.15,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "feint",
+                "parry",
+                "parry"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 3,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 78,
+        "vector": [
+            0.44,
+            0.0,
+            0,
+            0.28
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.45,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.21,
+            "stamina_efficiency": 0.6,
+            "first_move": "attack",
+            "last_sequence": [
+                "parry",
+                "parry",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 4,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 2
+            }
+        },
+        "predicted_move": "parry",
+        "matches": 79,
+        "vector": [
+            0.4,
+            0.0,
+            0,
+            0.25
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.49,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.19,
+            "stamina_efficiency": 0.6,
+            "first_move": "attack",
+            "last_sequence": [
+                "parry",
+                "heavy",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 4,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 80,
+        "vector": [
+            0.45,
+            0.0,
+            0,
+            0.31
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.52,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.24,
+            "stamina_efficiency": 0.5,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "attack",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 5,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 81,
+        "vector": [
+            0.49,
+            0.0,
+            0,
+            0.29
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.49,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.22,
+            "stamina_efficiency": 0.5,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "heavy",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 5,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 2,
+                "heal": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 82,
+        "vector": [
+            0.52,
+            0.0,
+            0,
+            0.34
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.46,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.2,
+            "stamina_efficiency": 0.5,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heal",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 5,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 2,
+                "heal": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 83,
+        "vector": [
+            0.49,
+            0.0,
+            0,
+            0.32
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.49,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.24,
+            "stamina_efficiency": 0.4,
+            "first_move": "attack",
+            "last_sequence": [
+                "heal",
+                "heal",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 6,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 2,
+                "heal": 2
+            }
+        },
+        "predicted_move": "heal",
+        "matches": 84,
+        "vector": [
+            0.46,
+            0.0,
+            0,
+            0.3
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.52,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.27,
+            "stamina_efficiency": 0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heal",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 7,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 2,
+                "heal": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 85,
+        "vector": [
+            0.49,
+            0.0,
+            0,
+            0.34
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.54,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.3,
+            "stamina_efficiency": 0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 8,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 2,
+                "heal": 2
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 86,
+        "vector": [
+            0.52,
+            0.0,
+            0,
+            0.37
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.51,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.28,
+            "stamina_efficiency": 0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "parry"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 8,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 2,
+                "feint": 1,
+                "parry": 3,
+                "heal": 2
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 87,
+        "vector": [
+            0.54,
+            0.0,
+            0,
+            0.4
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.49,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.27,
+            "stamina_efficiency": 0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "parry",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 8,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 3,
+                "feint": 1,
+                "parry": 3,
+                "heal": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 88,
+        "vector": [
+            0.51,
+            0.0,
+            0,
+            0.38
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.47,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.25,
+            "stamina_efficiency": 0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "parry",
+                "grab",
+                "parry"
+            ],
+            "move_counts": {
+                "attack": 2.8,
+                "heavy": 8,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 1,
+                "grab": 3,
+                "feint": 1,
+                "parry": 4,
+                "heal": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 89,
+        "vector": [
+            0.49,
+            0.0,
+            0,
+            0.37
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.44,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.24,
+            "stamina_efficiency": 0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "parry",
+                "wait"
+            ],
+            "move_counts": {
+                "attack": 2.5999999999999996,
+                "heavy": 8,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 3,
+                "feint": 1,
+                "parry": 4,
+                "heal": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 90,
+        "vector": [
+            0.47,
+            0.0,
+            0,
+            0.35
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.42,
+            "defense": 0.0,
+            "panic": 0.04,
+            "predictability": 0.23,
+            "stamina_efficiency": 0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "parry",
+                "wait",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 2.5999999999999996,
+                "heavy": 8,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 3,
+                "feint": 1,
+                "parry": 4,
+                "heal": 3
+            }
+        },
+        "predicted_move": null,
+        "matches": 91,
+        "vector": [
+            0.44,
+            0.0,
+            0,
+            0.34
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.41,
+            "defense": 0.0,
+            "panic": 0.04,
+            "predictability": 0.21,
+            "stamina_efficiency": 0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "wait",
+                "heal",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 2.5999999999999996,
+                "heavy": 8,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 4,
+                "feint": 1,
+                "parry": 4,
+                "heal": 3
+            }
+        },
+        "predicted_move": null,
+        "matches": 92,
+        "vector": [
+            0.42,
+            0.0,
+            0.04,
+            0.33
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.39,
+            "defense": 0.0,
+            "panic": 0.04,
+            "predictability": 0.2,
+            "stamina_efficiency": 0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "heal",
+                "grab",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 2.5999999999999996,
+                "heavy": 8,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 3
+            }
+        },
+        "predicted_move": null,
+        "matches": 93,
+        "vector": [
+            0.41,
+            0.0,
+            0.04,
+            0.31
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.41,
+            "defense": 0.0,
+            "panic": 0.04,
+            "predictability": 0.23,
+            "stamina_efficiency": 0.1,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "grab",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2.5999999999999996,
+                "heavy": 9,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 3
+            }
+        },
+        "predicted_move": "feint",
+        "matches": 94,
+        "vector": [
+            0.39,
+            0.0,
+            0.04,
+            0.3
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.43,
+            "defense": 0.0,
+            "panic": 0.03,
+            "predictability": 0.25,
+            "stamina_efficiency": 0.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2.5999999999999996,
+                "heavy": 10,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 3
+            }
+        },
+        "predicted_move": null,
+        "matches": 95,
+        "vector": [
+            0.41,
+            0.0,
+            0.04,
+            0.33
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.45,
+            "defense": 0.0,
+            "panic": 0.03,
+            "predictability": 0.27,
+            "stamina_efficiency": -0.1,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2.5999999999999996,
+                "heavy": 11,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 3
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 96,
+        "vector": [
+            0.43,
+            0.0,
+            0.03,
+            0.35
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.47,
+            "defense": 0.0,
+            "panic": 0.03,
+            "predictability": 0.29,
+            "stamina_efficiency": -0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2.5999999999999996,
+                "heavy": 12,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 3
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 97,
+        "vector": [
+            0.45,
+            0.0,
+            0.03,
+            0.37
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.49,
+            "defense": 0.0,
+            "panic": 0.03,
+            "predictability": 0.31,
+            "stamina_efficiency": -0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2.5999999999999996,
+                "heavy": 13,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 3
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 98,
+        "vector": [
+            0.47,
+            0.0,
+            0.03,
+            0.39
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.0,
+            "panic": 0.03,
+            "predictability": 0.3,
+            "stamina_efficiency": -0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 3.5999999999999996,
+                "heavy": 13,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 3
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 99,
+        "vector": [
+            0.49,
+            0.0,
+            0.03,
+            0.41
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.49,
+            "defense": 0.0,
+            "panic": 0.06,
+            "predictability": 0.29,
+            "stamina_efficiency": -0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "attack",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 3.5999999999999996,
+                "heavy": 13,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 4
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 100,
+        "vector": [
+            0.5,
+            0.0,
+            0.03,
+            0.4
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.0,
+            "panic": 0.06,
+            "predictability": 0.28,
+            "stamina_efficiency": -0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "heal",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 4.6,
+                "heavy": 13,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 4
+            }
+        },
+        "predicted_move": null,
+        "matches": 101,
+        "vector": [
+            0.49,
+            0.0,
+            0.06,
+            0.39
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.52,
+            "defense": 0.0,
+            "panic": 0.06,
+            "predictability": 0.29,
+            "stamina_efficiency": -0.4,
+            "first_move": "attack",
+            "last_sequence": [
+                "heal",
+                "attack",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 4.6,
+                "heavy": 14,
+                "defend": 0,
+                "bluff": 1,
+                "wait": 2,
+                "grab": 5,
+                "feint": 1,
+                "parry": 4,
+                "heal": 4
+            }
+        },
+        "predicted_move": null,
+        "matches": 102,
+        "vector": [
+            0.5,
+            0.0,
+            0.06,
+            0.38
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "stamina_efficiency": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 103,
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.5,
+            "stamina_efficiency": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 0,
+                "grab": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 104,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.33,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.67,
+            "stamina_efficiency": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "grab",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 0,
+                "grab": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 105,
+        "vector": [
+            0.5,
+            0.0,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.5,
+            "stamina_efficiency": 0.9,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "grab",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 1,
+                "defend": 0,
+                "grab": 2
+            }
+        },
+        "predicted_move": "grab",
+        "matches": 106,
+        "vector": [
+            0.33,
+            0.0,
+            0,
+            0.67
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.6,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.4,
+            "stamina_efficiency": 0.8,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 2,
+                "defend": 0,
+                "grab": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 107,
+        "vector": [
+            0.5,
+            0.0,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.67,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.5,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 3,
+                "defend": 0,
+                "grab": 2
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 108,
+        "vector": [
+            0.6,
+            0.0,
+            0,
+            0.4
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.57,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.43,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "parry"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 3,
+                "defend": 0,
+                "grab": 2,
+                "parry": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 109,
+        "vector": [
+            0.67,
+            0.0,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.47,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.38,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "parry",
+                "wait"
+            ],
+            "move_counts": {
+                "attack": 0.8,
+                "heavy": 3,
+                "defend": 0,
+                "grab": 2,
+                "parry": 1,
+                "wait": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 110,
+        "vector": [
+            0.57,
+            0.0,
+            0,
+            0.43
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.42,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.34,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "parry",
+                "wait",
+                "ability"
+            ],
+            "move_counts": {
+                "attack": 0.8,
+                "heavy": 3,
+                "defend": 0,
+                "grab": 2,
+                "parry": 1,
+                "wait": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 111,
+        "vector": [
+            0.47,
+            0.0,
+            0,
+            0.38
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.38,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.31,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "wait",
+                "ability",
+                "ability"
+            ],
+            "move_counts": {
+                "attack": 0.8,
+                "heavy": 3,
+                "defend": 0,
+                "grab": 2,
+                "parry": 1,
+                "wait": 1,
+                "ability": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 112,
+        "vector": [
+            0.42,
+            0.0,
+            0,
+            0.34
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.44,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.37,
+            "stamina_efficiency": 0.6,
+            "first_move": "attack",
+            "last_sequence": [
+                "ability",
+                "ability",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 0.8,
+                "heavy": 4,
+                "defend": 0,
+                "grab": 2,
+                "parry": 1,
+                "wait": 1,
+                "ability": 2
+            }
+        },
+        "predicted_move": "ability",
+        "matches": 113,
+        "vector": [
+            0.38,
+            0.0,
+            0,
+            0.31
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.4,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.24,
+            "stamina_efficiency": 0.6,
+            "first_move": "attack",
+            "last_sequence": [
+                "ability",
+                "heavy",
+                "bluff"
+            ],
+            "move_counts": {
+                "attack": 0.8,
+                "heavy": 4,
+                "defend": 0,
+                "grab": 2,
+                "parry": 1,
+                "wait": 1,
+                "ability": 2,
+                "bluff": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 114,
+        "vector": [
+            0.44,
+            0.0,
+            0,
+            0.37
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.45,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.29,
+            "stamina_efficiency": 0.5,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "bluff",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 0.8,
+                "heavy": 5,
+                "defend": 0,
+                "grab": 2,
+                "parry": 1,
+                "wait": 1,
+                "ability": 2,
+                "bluff": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 115,
+        "vector": [
+            0.4,
+            0.0,
+            0,
+            0.34
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 1.0,
+            "stamina_efficiency": 1.0,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 0,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 116,
+        "vector": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 1.0,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.5,
+            "stamina_efficiency": 0.9,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 1,
+                "defend": 0
+            }
+        },
+        "predicted_move": null,
+        "matches": 117,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            1.0
+        ]
+    },
+    {
+        "player_type": "Aggressive",
+        "behavior_summary": {
+            "aggression": 0.67,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.33,
+            "stamina_efficiency": 0.9,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "heavy",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 1,
+                "defend": 0,
+                "grab": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 118,
+        "vector": [
+            1.0,
+            0.0,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.5,
+            "stamina_efficiency": 0.9,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "grab",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 1,
+                "defend": 0,
+                "grab": 2
+            }
+        },
+        "predicted_move": null,
+        "matches": 119,
+        "vector": [
+            0.67,
+            0.0,
+            0,
+            0.33
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.6,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.4,
+            "stamina_efficiency": 0.8,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "grab",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 2,
+                "defend": 0,
+                "grab": 2
+            }
+        },
+        "predicted_move": "grab",
+        "matches": 120,
+        "vector": [
+            0.5,
+            0.0,
+            0,
+            0.5
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.33,
+            "stamina_efficiency": 0.8,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "heavy",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 2,
+                "defend": 0,
+                "grab": 2,
+                "heal": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 121,
+        "vector": [
+            0.6,
+            0.0,
+            0,
+            0.4
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.43,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.29,
+            "stamina_efficiency": 0.8,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heal",
+                "ability"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 2,
+                "defend": 0,
+                "grab": 2,
+                "heal": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 122,
+        "vector": [
+            0.5,
+            0.0,
+            0,
+            0.33
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.38,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.38,
+            "stamina_efficiency": 0.8,
+            "first_move": "attack",
+            "last_sequence": [
+                "heal",
+                "ability",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 2,
+                "defend": 0,
+                "grab": 3,
+                "heal": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 123,
+        "vector": [
+            0.43,
+            0.0,
+            0,
+            0.29
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.33,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.44,
+            "stamina_efficiency": 0.8,
+            "first_move": "attack",
+            "last_sequence": [
+                "ability",
+                "grab",
+                "grab"
+            ],
+            "move_counts": {
+                "attack": 1,
+                "heavy": 2,
+                "defend": 0,
+                "grab": 4,
+                "heal": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 124,
+        "vector": [
+            0.38,
+            0.0,
+            0,
+            0.38
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.4,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.4,
+            "stamina_efficiency": 0.8,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "grab",
+                "attack"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 2,
+                "defend": 0,
+                "grab": 4,
+                "heal": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 125,
+        "vector": [
+            0.33,
+            0.0,
+            0,
+            0.44
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.45,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.36,
+            "stamina_efficiency": 0.7,
+            "first_move": "attack",
+            "last_sequence": [
+                "grab",
+                "attack",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 3,
+                "defend": 0,
+                "grab": 4,
+                "heal": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 126,
+        "vector": [
+            0.4,
+            0.0,
+            0,
+            0.4
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.5,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.33,
+            "stamina_efficiency": 0.6,
+            "first_move": "attack",
+            "last_sequence": [
+                "attack",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 4,
+                "defend": 0,
+                "grab": 4,
+                "heal": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": "grab",
+        "matches": 127,
+        "vector": [
+            0.45,
+            0.0,
+            0,
+            0.36
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.54,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.38,
+            "stamina_efficiency": 0.5,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 5,
+                "defend": 0,
+                "grab": 4,
+                "heal": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 128,
+        "vector": [
+            0.5,
+            0.0,
+            0,
+            0.33
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.57,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.43,
+            "stamina_efficiency": 0.4,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 6,
+                "defend": 0,
+                "grab": 4,
+                "heal": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 129,
+        "vector": [
+            0.54,
+            0.0,
+            0,
+            0.38
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.6,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.47,
+            "stamina_efficiency": 0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 2,
+                "heavy": 7,
+                "defend": 0,
+                "grab": 4,
+                "heal": 1,
+                "ability": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 130,
+        "vector": [
+            0.57,
+            0.0,
+            0,
+            0.43
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.55,
+            "defense": 0.0,
+            "panic": 0,
+            "predictability": 0.44,
+            "stamina_efficiency": 0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "heavy",
+                "wait"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 7,
+                "defend": 0,
+                "grab": 4,
+                "heal": 1,
+                "ability": 1,
+                "wait": 1
+            }
+        },
+        "predicted_move": "heavy",
+        "matches": 131,
+        "vector": [
+            0.6,
+            0.0,
+            0,
+            0.47
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.52,
+            "defense": 0.0,
+            "panic": 0.06,
+            "predictability": 0.42,
+            "stamina_efficiency": 0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heavy",
+                "wait",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 7,
+                "defend": 0,
+                "grab": 4,
+                "heal": 2,
+                "ability": 1,
+                "wait": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 132,
+        "vector": [
+            0.55,
+            0.0,
+            0,
+            0.44
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.49,
+            "defense": 0.0,
+            "panic": 0.11,
+            "predictability": 0.39,
+            "stamina_efficiency": 0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "wait",
+                "heal",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 7,
+                "defend": 0,
+                "grab": 4,
+                "heal": 3,
+                "ability": 1,
+                "wait": 1
+            }
+        },
+        "predicted_move": null,
+        "matches": 133,
+        "vector": [
+            0.52,
+            0.0,
+            0.06,
+            0.42
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.46,
+            "defense": 0.0,
+            "panic": 0.16,
+            "predictability": 0.37,
+            "stamina_efficiency": 0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heal",
+                "heal",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 7,
+                "defend": 0,
+                "grab": 4,
+                "heal": 4,
+                "ability": 1,
+                "wait": 1
+            }
+        },
+        "predicted_move": "heal",
+        "matches": 134,
+        "vector": [
+            0.49,
+            0.0,
+            0.11,
+            0.39
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.44,
+            "defense": 0.0,
+            "panic": 0.2,
+            "predictability": 0.35,
+            "stamina_efficiency": 0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heal",
+                "heal",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 7,
+                "defend": 0,
+                "grab": 4,
+                "heal": 5,
+                "ability": 1,
+                "wait": 1
+            }
+        },
+        "predicted_move": "heal",
+        "matches": 135,
+        "vector": [
+            0.46,
+            0.0,
+            0.16,
+            0.37
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.42,
+            "defense": 0.0,
+            "panic": 0.24,
+            "predictability": 0.34,
+            "stamina_efficiency": 0.3,
+            "first_move": "attack",
+            "last_sequence": [
+                "heal",
+                "heal",
+                "heal"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 7,
+                "defend": 0,
+                "grab": 4,
+                "heal": 6,
+                "ability": 1,
+                "wait": 1
+            }
+        },
+        "predicted_move": "heal",
+        "matches": 136,
+        "vector": [
+            0.44,
+            0.0,
+            0.2,
+            0.35
+        ]
+    },
+    {
+        "player_type": "Balanced",
+        "behavior_summary": {
+            "aggression": 0.45,
+            "defense": 0.0,
+            "panic": 0.23,
+            "predictability": 0.37,
+            "stamina_efficiency": 0.2,
+            "first_move": "attack",
+            "last_sequence": [
+                "heal",
+                "heal",
+                "heavy"
+            ],
+            "move_counts": {
+                "attack": 1.8,
+                "heavy": 8,
+                "defend": 0,
+                "grab": 4,
+                "heal": 6,
+                "ability": 1,
+                "wait": 1
+            }
+        },
+        "predicted_move": "heal",
+        "matches": 137,
+        "vector": [
+            0.42,
+            0.0,
+            0.24,
+            0.34
+        ]
     }
 ]

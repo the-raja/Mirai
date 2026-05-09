@@ -27,8 +27,20 @@ class EmotionalEngine:
         self.caution = max(0, min(1, self.caution))
 
     def get_state(self):
-        if self.caution > 0.7: return "DESPERATE"
-        if self.frustration > 0.6: return "IRRITATED"
-        if self.confidence > 0.8: return "DOMINANT"
-        if self.caution > 0.4: return "CAUTIOUS"
-        return "CALCULATING"
+        state = "CALCULATING"
+        modifiers = {"dmg_dealt": 1.0, "dmg_taken": 1.0, "ps_dealt": 1.0, "st_regen": 1.0}
+
+        if self.caution > 0.7:
+            state = "DESPERATE"
+            modifiers = {"dmg_dealt": 0.8, "dmg_taken": 1.0, "ps_dealt": 0.8, "st_regen": 1.3}
+        elif self.frustration > 0.6:
+            state = "IRRITATED"
+            modifiers = {"dmg_dealt": 1.3, "dmg_taken": 1.2, "ps_dealt": 1.1, "st_regen": 1.0}
+        elif self.confidence > 0.8:
+            state = "DOMINANT"
+            modifiers = {"dmg_dealt": 1.1, "dmg_taken": 0.8, "ps_dealt": 1.5, "st_regen": 1.0}
+        elif self.caution > 0.4:
+            state = "CAUTIOUS"
+            modifiers = {"dmg_dealt": 0.9, "dmg_taken": 0.9, "ps_dealt": 1.0, "st_regen": 1.1}
+        
+        return state, modifiers

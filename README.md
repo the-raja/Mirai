@@ -1,66 +1,55 @@
-# MIRAI V.4: Tactical Neural Combat Interface
+# MIRAI v.2 (Memory-Integrated Relational Adaptive Intelligence)
+### **The Autonomous Adversary**
 
-**MIRAI** (Memory-Integrated Relational Adaptive Intelligence) is a memory-augmented adversarial AI system. Unlike traditional game bosses with static "if-then" logic, MIRAI utilizes real-time behavior tracking, vector embeddings, and an HNSW-indexed memory layer to observe, learn, and counter the player's unique psychological fighting style.
+**MIRAI** is a memory-augmented, gear-aware, and emotionally-weighted AI boss system inspired by **NVIDIA ACE** and the **MIR5** architecture. Unlike traditional game bosses with static scripts, MIRAI utilizes a multi-layered cognitive pipeline to observe, induce, and counter player behavior in a high-stakes psychological duel.
 
 ---
 
-## 🧠 Core Architecture: The Neural Pipeline
+## 🧠 Core Architecture: The Cognitive Pipeline
 
-MIRAI follows a strict **Behavior-to-Decision** pipeline that allows it to build a persistent profile of the player:
+MIRAI operates on a **Continuous Learning Feedback Loop** that spans physics, psychology, and structural heuristics:
 
 ```mermaid
 graph TD
-    A[Player Input] --> B[Behavior Tracker]
-    B --> C[Player Modeling AI]
-    C --> D[Behavior Embedding Gen]
-    D --> E[HNSW Memory Retrieval Layer]
-    E --> F[Strategy + Weakness Engine]
-    F --> G[MIRAI Decision System]
-    G --> H[Boss Action Output]
-    H --> I[LLM Dialogue Layer]
+    A[Pre-Combat Heuristics] -->|Scan Gear/Ability| B[Initial Strategy Weights]
+    B --> C[Real-Time Observation]
+    C -->|Track ST/PS/Moves| D[Proactive Trap Engine]
+    D -->|Induce Pattern| E[HNSW Memory Retrieval]
+    E -->|Fetch Winning Counters| F[Emotional Latent State]
+    F -->|Apply Physical Mods| G[Strategic Resolution]
+    G --> H[LLM Dialogue & HUD Update]
+    H --> C
 ```
 
 ---
 
-## 🔥 Key Features
+## 🔥 Key Systems (v2 Evolution)
 
-### 1. Tactical Combat HUD (Immersive UI)
-- **Visual Intensity**: Scanline animations, CRT-style grid overlays, and tactical corner brackets.
-- **Mechanical HP HUD**: Mechanical "Power Core" bars with high-contrast health indicators.
-- **Dynamic Danger Feedback**: Real-time "Danger Flash" animations during damage events.
-- **Cognitive Trace Aside**: A live panel showing MIRAI's internal thought process, match confidence, and vector distribution.
+### 1. Kinetic Resource Engine (The "Body")
+- **Stamina (ST)**: Every action has a physical cost. Players can "exhaust" the boss, but MIRAI also tracks player stamina to predict fatigue.
+- **Posture (PS)**: A balance-based system. Breaking posture results in a **Stagger Lock** (1 turn skip, 1.5x damage taken).
+- **Parry Mechanics**: High-priority counters that nullify damage and shatter the attacker's balance.
 
-### 2. Behavioral AI Engine
-- **Aggression Score**: Tracks frequency of heavy and basic attacks.
-- **Defense Score**: Monitors reliance on defensive stances.
-- **Panic Detection**: Identifies "Panic Healing" (healing under 30% HP).
-- **Trickster Detection**: Tracks "Bluff" actions used to mask predictability.
+### 2. Cognitive Strategy & Trap Engine (The "Mind")
+- **Proactive Pattern Induction**: MIRAI doesn't just react; it **baits**. It intentionally seeds patterns (e.g., repeating attacks) to lure the player into a predictable counter, only to spring a lethal **Trigger Move**.
+- **Outcome-Based Meta-Learning**: Uses **FAISS (HNSW Indexing)** to search thousands of historical fights not just for similarity, but for **Winning Strategies**.
 
-### 3. HNSW Vector Memory (FAISS)
-- **Long-Term Persistence**: Uses **FAISS (Facebook AI Similarity Search)** to maintain a Hierarchical Navigable Small World (HNSW) graph index.
-- **Pattern Recognition**: Converts player behavior into 4D vectors `[Aggression, Defense, Panic, Predictability]` and searches history for the most similar past fights.
-- **Adaptive Countering**: MIRAI identifies what defeated similar players in the past and prioritizes those moves.
+### 3. Structural Intelligence (The "Gear")
+- **Loadout Selection**: Players choose from a suite of **Shields** (Buckler, Greatshield, Vanguard) and **Special Abilities** (Focus Pulse, Titan's Wrath, Overdrive).
+- **Heuristic Analysis**: MIRAI performs a "Neural Scan" of player equipment before Turn 1, adjusting its initial tactical weights to counter the selected build.
 
-### 4. LLM Dialogue Engine (Llama 3.2)
-- **Clinical Personality**: MIRAI is cold, observational, and minimal.
-- **Pattern Awareness**: Generates context-aware lines like *"You heal at predictable thresholds"* or *"No variation detected"* based on the AI's certainty.
-- **Memory Persistence**: Acknowledges if "Mirai Remembers You" from previous sessions.
+### 4. Emotional Mechanical Weighting (The "Spirit")
+- **Dynamic Physics**: MIRAI's simulated moods (**DOMINANT**, **IRRITATED**, **DESPERATE**) directly alter its physical stats (Damage, Defense, Posture, Regen).
+- **UI Synchronicity**: The HUD glitches and shifts color based on MIRAI's frustration or confidence.
 
 ---
 
 ## 🛠 Technical Stack
 
-### Backend
-- **Framework**: FastAPI (Python 3.13)
-- **Vector Engine**: FAISS-cpu (HNSW Indexing)
-- **Math/Logic**: NumPy
-- **LLM**: Ollama (Llama 3.2)
-- **Server**: Uvicorn
-
-### Frontend
-- **Framework**: Next.js 15 (React 19)
-- **Styling**: Tailwind CSS 4 + Custom Tactical CSS
-- **Language**: TypeScript
+- **Backend**: FastAPI (Python 3.13), FAISS-cpu (HNSW Vector Search), NumPy.
+- **AI/LLM**: Ollama (Llama 3.2), Markov Chain (N-Gram Prediction).
+- **Frontend**: Next.js 15 (React 19), Tailwind CSS 4, Framer Motion (HUD Animations).
+- **Styling**: Custom "Terminal-Core" CSS for immersive feedback.
 
 ---
 
@@ -69,76 +58,45 @@ graph TD
 ### 1. Prerequisites
 - **Python 3.13+**
 - **Node.js 18+**
-- **Ollama** (Download from ollama.com)
+- **Ollama** (Download from [ollama.com](https://ollama.com))
 
 ### 2. Setup Ollama
-Download and run the Llama 3.2 model:
 ```bash
 ollama run llama3.2
 ```
 
-### 3. Backend Setup
+### 3. Backend Implementation
 ```bash
 # Navigate to project root
 cd MIRAI
 
-# Create and activate virtual environment
+# Setup Environment
 python -m venv venv
-.\venv\Scripts\activate
+source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 
-# Install dependencies
+# Install & Run
 pip install -r requirements.txt
-
-# Run the backend
 python backend/main.py
 ```
 
-### 4. Frontend Setup
+### 4. Frontend Deployment
 ```bash
 # Navigate to frontend directory
 cd mirai-frontend
 
-# Install dependencies
+# Install & Launch
 npm install
-
-# Run the development server
 npm run dev
 ```
 
 ---
 
-## 📂 Project Structure
-
-```text
-MIRAI/
-├── backend/
-│   ├── ai/                 # Core AI Logic
-│   │   ├── behavior_tracker.py  # Real-time metrics
-│   │   ├── vector_memory.py     # FAISS/HNSW Implementation
-│   │   ├── strategy_engine.py   # Decision logic
-│   │   └── dialogue_engine.py   # Ollama integration
-│   ├── api/                # FastAPI Routes
-│   ├── memory/             # Persistent JSON/Index files
-│   └── main.py             # Entry point
-├── mirai-frontend/
-│   ├── src/app/
-│   │   ├── globals.css      # Tactical HUD styles
-│   │   └── page.tsx         # Combat Interface
-└── requirements.txt         # Backend dependencies
-```
-
----
-
-## 🛡️ MIRAI's Memory Schema
-
-### `fight_vectors.json` (Metadata)
-Stores historical snapshots of fights, including player types and move frequencies.
-
-### `fight_hnsw.index` (The Brain)
-A binary graph file created by FAISS. It allows MIRAI to perform sub-millisecond similarity searches across thousands of historical behavior vectors.
-
-### `player_memory.json` (Identity)
-Tracks your current session ID, total match count (Familiarity), and current classified archetype.
+## 🛡️ The Laws of Adaptive Fairness
+To ensure a challenging but unbiased experience, MIRAI follows four foundational laws:
+1.  **Law of Shared Physicality**: MIRAI is bound by the same Stamina/Posture rules as the player.
+2.  **Law of the Transparent Brain**: MIRAI's confidence and current Trap Protocol are visible on the HUD.
+3.  **Law of Emotional Fallibility**: High frustration reduces the AI's prediction accuracy.
+4.  **Law of Recovery**: Boss "Trumps" require cooldowns and leave vulnerable windows.
 
 ---
 

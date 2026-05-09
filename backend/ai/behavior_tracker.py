@@ -61,6 +61,7 @@ class BehaviorTracker:
             "defense": self.get_defense_score(),
             "panic": self.get_panic_score(),
             "predictability": round(max(0, predictability), 2),
+            "stamina_efficiency": round(1.0 - (self.move_counts["heavy"] * 0.1), 2), # Simplified efficiency metric
             "first_move": self.first_move,
             "last_sequence": self.move_history[-3:],
             "move_counts": move_counts
